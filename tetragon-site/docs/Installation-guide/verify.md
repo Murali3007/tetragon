@@ -23,11 +23,11 @@ Let's verify a Tetragon image's signature using the `cosign verify` command:
 cosign verify --certificate-github-workflow-repository cilium/tetragon --certificate-oidc-issuer https://token.actions.githubusercontent.com <Image URL> | jq
 ```
 
-{{< note >}}
+:::note
 If you are using cosign < v2.0.0, you must set `COSIGN_EXPERIMENTAL=1`
 environment variable to allow verification of images signed in KEYLESS mode.
 To learn more about keyless signing, please refer to [Sigstore documentation](https://docs.sigstore.dev/cosign/signing/overview/).
-{{< /note >}}
+:::
 
 ## Verify the SBOM signature
 
