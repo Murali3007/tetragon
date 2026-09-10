@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktetragon_site=self.webpackChunktetragon_site||[]).push([["56"],{8552(e){e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
