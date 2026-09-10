@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktetragon_site=self.webpackChunktetragon_site||[]).push([["991"],{2600(t){t.exports=JSON.parse('{"metadata":{"permalink":"/tetragon/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":0,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

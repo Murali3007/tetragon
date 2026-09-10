@@ -1,2 +1,0 @@
-# tetragon
-For Docusaurus testing

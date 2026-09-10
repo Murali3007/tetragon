@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktetragon_site=self.webpackChunktetragon_site||[]).push([["833"],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[]}')}}]);
